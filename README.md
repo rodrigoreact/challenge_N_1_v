@@ -1,6 +1,6 @@
 # 📊 Desafío de Análisis de Tiendas: ¿Cuál vender?
 
-¡Bienvenido al primer desafío del Bootcamp **Alura LATAM ONE**! En este reto, ayudarás al **Sr. Juan**, dueño de la cadena **Alura Store**, a tomar una decisión crucial: **¿qué tienda debería vender para financiar un nuevo emprendimiento?**
+¡Bienvenido al primer desafío del Bootcamp **Alura LATAM ONE**! En este reto, ayudarás al **Sr. Juan**, dueño de 4 tiendas, a tomar una decisión crucial: **¿qué tienda debería vender para financiar un nuevo emprendimiento?**
 
 Para ello, realizarás un análisis exhaustivo de las **4 tiendas físicas**, evaluando datos de ventas, rendimiento, envíos y calificaciones de los clientes. Al final, presentarás una **recomendación clara y justificada** basada en datos.
 
